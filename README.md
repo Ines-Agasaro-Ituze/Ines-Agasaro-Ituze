@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ines-Agasaro-Ituze
-- 👀 I’m cybersecurity and Software Engineer Enthusiast
+- 👀 I’m cybersecurity and Software Engineer
 - 🌱 I’m currently pursuing a Msc Infomation Technology with a cyber security concentration
 - 💞️ I’m looking to collaborate on software development and cybersecurity projects
 
